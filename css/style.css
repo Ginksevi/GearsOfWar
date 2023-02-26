@@ -1,0 +1,16 @@
+#cabecera{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+#pie{
+    background-color: gray;
+    color: blue;
+    text-align: center;
+}
+[class*="section-"] {
+    float: left;
+    padding: 15px;
+}
+.section-1 {width: 50%;}
+.section-2 {width: 50%;}
